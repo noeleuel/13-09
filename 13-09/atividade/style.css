@@ -1,0 +1,21 @@
+body {
+background-color: rgb(95, 110, 110);
+
+color: rgb(20, 62, 62);
+
+font-size: medium;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+color: darkslategray;
+
+}
+
+ a {
+color: rgb(138, 168, 138);
+text-decoration: none; /*faz o sublinhado do link sumir*/
+
+
+}

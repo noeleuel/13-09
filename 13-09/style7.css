@@ -1,0 +1,32 @@
+h1 {
+background-color: rgba(45, 64, 66, 0.985);
+color: rgb(198, 198, 199);
+
+}
+
+
+body {
+background-color: rgb(97, 119, 119);
+
+}
+
+button {
+    
+    background-color: rgb(60, 94, 110);
+}
+
+a {
+    color: rgb(138, 168, 138);
+    text-decoration: none; /*faz o sublinhado do link sumir*/
+}
+
+
+img {
+    width: 300px; ;
+    /*inglês significa largura*/
+    height:auto ;
+    /*inglês significa altura*/
+    
+    }
+    
+    
